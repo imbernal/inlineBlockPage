@@ -1,0 +1,39 @@
+body {
+  background-color: #f3f1f1;
+}
+.buttons {
+  margin-top: 4%;
+  margin-bottom: 4%;
+  margin-left: 25%;
+}
+.buttons button {
+  display: inline-block;
+  font-size: 20px;
+  width: 20%;
+  margin-right: 5px;
+}
+#firstP {
+  text-align: center;
+}
+#firstP p {
+  display: inline-block;
+  min-width: 160px;
+  width: calc(100% / 2);
+  box-sizing: border-box;
+  text-align: left;
+  padding-right: 2%;
+}
+.fourColumns {
+  text-align: center;
+  border-top: 1px solid;
+  margin-top: 2%;
+  padding-top: 2%;
+}
+.fourColumns p {
+  box-sizing: border-box;
+  padding-right: 2%;
+  text-align: left;
+  display: inline-block;
+  min-width: 160px;
+  width: calc(100% / 3);
+}
